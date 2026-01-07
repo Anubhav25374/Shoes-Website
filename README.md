@@ -5,7 +5,7 @@ It showcases multiple shoe products, each with a visually appealing layout and a
 
 
 
-![image alt)(https://github.com/Anubhav25374/Shoes-Website/blob/fe94c86308cbbf74231ffd75f2e1610d70fa540a/Screenshot%202026-01-07%20191229.png)
+![image alt)(https://github.com/Anubhav25374/Shoes-Website/blob/4c9cea428899e7c9e7ced329b56b8ab69b5c73fd/Screenshot%202026-01-07%20191229.png)
 
 
 
