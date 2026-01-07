@@ -4,11 +4,6 @@ This project is a responsive frontend website inspired by Nike’s shoe collecti
 It showcases multiple shoe products, each with a visually appealing layout and a review-style presentation, making it suitable for practicing real-world e-commerce UI design.
 
 
-
-![image alt)(https://github.com/Anubhav25374/Shoes-Website/blob/4c9cea428899e7c9e7ced329b56b8ab69b5c73fd/Screenshot%202026-01-07%20191229.png)
-
-
-
 ## ✨Features
 - Clean and modern UI design
 - Multiple Nike shoe product listings
@@ -31,3 +26,11 @@ This project was created to sharpen my web development skills, including:
 ## 📌Note
 This is a frontend-only project built for learning and practice purposes.  
 No backend functionality is included.
+
+
+
+
+
+
+![image alt)(https://github.com/Anubhav25374/Shoes-Website/blob/4c9cea428899e7c9e7ced329b56b8ab69b5c73fd/Screenshot%202026-01-07%20191229.png)
+
