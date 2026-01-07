@@ -1,40 +1,27 @@
-Nike Shoes Frontend Website
-This project is a responsive frontend website inspired by Nike’s shoe collection, built using pure HTML and CSS. The website focuses on delivering a clean, modern, and interactive user interface without using any JavaScript or external frameworks.
+# Nike Shoes Frontend Website
 
-It showcases multiple shoe products, each with a visually appealing layout and a review-style presentation, making it suitable for practicing real-world e-commerce UI design.
+A clean and responsive frontend website inspired by Nike shoes, built using only HTML and CSS.  
+This project focuses on creating an interactive user interface with multiple product items and review-style sections.
 
-✨ Features
-Clean and modern UI design
+## Features
+- Clean and modern UI design
+- Multiple Nike shoe product listings
+- Interactive hover effects
+- Product review-style sections
+- Responsive layout using CSS
+- No JavaScript or frameworks used
 
-->Multiple Nike shoe product listings
+## Technologies Used
+- HTML5
+- CSS3 (Flexbox, Grid)
 
-->Interactive hover effects and smooth layouts
+## Purpose
+This project was created to sharpen my web development skills, including:
+- Writing structured and semantic HTML
+- Designing responsive layouts with CSS
+- Improving UI/UX understanding
+- Practicing real-world frontend design
 
-->Product review-style sections
-
-->Fully responsive design using CSS
-
-
-
-
-🛠️ Technologies Used
-
-->HTML5
-
-->CSS3 (Flexbox & Grid)
-
-
-
-
-🎯 Purpose of the Project
-
-This project was created to sharpen my web development skills, especially:
-
-->Writing clean and structured HTML
-
-->Designing responsive layouts using CSS
-
-->Improving UI/UX understanding
-
-->Practicing real-world frontend layouts
-
+## Note
+This is a frontend-only project built for learning and practice purposes.  
+No backend functionality is included.
