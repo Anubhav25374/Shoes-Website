@@ -5,20 +5,36 @@ It showcases multiple shoe products, each with a visually appealing layout and a
 
 ✨ Features
 Clean and modern UI design
+
 ->Multiple Nike shoe product listings
+
 ->Interactive hover effects and smooth layouts
+
 ->Product review-style sections
+
 ->Fully responsive design using CSS
 
 
+
+
 🛠️ Technologies Used
+
 ->HTML5
+
 ->CSS3 (Flexbox & Grid)
 
 
+
+
 🎯 Purpose of the Project
+
 This project was created to sharpen my web development skills, especially:
+
 ->Writing clean and structured HTML
+
 ->Designing responsive layouts using CSS
+
 ->Improving UI/UX understanding
+
 ->Practicing real-world frontend layouts
+
