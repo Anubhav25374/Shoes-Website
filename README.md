@@ -29,6 +29,7 @@ No backend functionality is included.
 
 
 
+
 Live Link - https://nike-one-shoes.netlify.app/
 
 
@@ -40,5 +41,5 @@ Live Link - https://nike-one-shoes.netlify.app/
 
 
 
-![image alt)(https://github.com/Anubhav25374/Shoes-Website/blob/4c9cea428899e7c9e7ced329b56b8ab69b5c73fd/Screenshot%202026-01-07%20191229.png)
+
 
